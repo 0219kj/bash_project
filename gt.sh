@@ -6,4 +6,4 @@ git add .
 #commit changes with a custom message
 git commit -m "$1"
 #push changes to the remote server
-git push
+git push --set-upstream origin joe
